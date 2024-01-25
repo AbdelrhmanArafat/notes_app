@@ -17,11 +17,11 @@
 
 ## Used these tools to build this application:
 - ### Flutter:
-      Framework for building cross-platform mobile applications.
+    Framework for building cross-platform mobile applications.
 - ### Hive:
-      Lightweight and fast NoSQL database for Flutter.
+    Lightweight and fast NoSQL database for Flutter.
 - ### Cubit:
-      State management library to handle the app's state in a clean and efficient manner.
+    State management library to handle the app's state in a clean and efficient manner.
 #
 
 ## Application Icon:
